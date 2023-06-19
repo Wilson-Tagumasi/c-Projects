@@ -1,0 +1,26 @@
+C:\MavCoder\C\CRUD1\bin\Debug\CRUD1.exe.config
+C:\MavCoder\C\CRUD1\bin\Debug\CRUD1.exe
+C:\MavCoder\C\CRUD1\bin\Debug\CRUD1.pdb
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.csproj.AssemblyReference.cache
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.csproj.SuggestedBindingRedirects.cache
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.Form1.resources
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.Properties.Resources.resources
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.csproj.GenerateResource.cache
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.csproj.CoreCompileInputs.cache
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.exe
+C:\MavCoder\C\CRUD1\obj\Debug\CRUD1.pdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\CRUD1.exe.config
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.exe
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.pdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\CRUD1.exe
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\CRUD1.pdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\mscorlib.dll
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\normidna.nlp
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\normnfc.nlp
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\normnfd.nlp
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\normnfkc.nlp
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\bin\Debug\normnfkd.nlp
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.csprojResolveAssemblyReference.cache
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.Form1.resources
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.Properties.Resources.resources
+C:\Users\Dev Ideyalab\OneDrive\Desktop\CRUD1\obj\Debug\CRUD1.csproj.GenerateResource.Cache
